@@ -1,4 +1,4 @@
-# Sample Work
+# Sample Work for Samantha Maillie
 This repository has my a few key projects for getting to know me better. 
 
 Education Analysis utilizes python to understand student success in Massachusetts schools. 
