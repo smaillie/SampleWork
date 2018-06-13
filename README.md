@@ -9,4 +9,5 @@ PET Study is a brief description of my 2+ year long research project investigati
 
 Survival Analysis project and report utilize R to investigate the survival of myocardial infraction, heart attack, patients.  
 
+Wildfire Analysis is a machine learning project implemented in python attempting to predict the cause of wildfires in the United States based on size and location. 
 
